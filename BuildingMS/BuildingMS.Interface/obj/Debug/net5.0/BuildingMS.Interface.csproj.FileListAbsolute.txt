@@ -1,0 +1,15 @@
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Interface\bin\Debug\net5.0\BuildingMS.Interface.deps.json
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Interface\bin\Debug\net5.0\BuildingMS.Interface.dll
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Interface\bin\Debug\net5.0\BuildingMS.Interface.pdb
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Interface\obj\Debug\net5.0\BuildingMS.Interface.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Interface\obj\Debug\net5.0\BuildingMS.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Interface\obj\Debug\net5.0\BuildingMS.Interface.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Interface\obj\Debug\net5.0\BuildingMS.Interface.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Interface\obj\Debug\net5.0\BuildingMS.Interface.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Interface\obj\Debug\net5.0\BuildingMS.Interface.dll
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Interface\obj\Debug\net5.0\refint\BuildingMS.Interface.dll
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Interface\obj\Debug\net5.0\BuildingMS.Interface.pdb
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Interface\obj\Debug\net5.0\ref\BuildingMS.Interface.dll
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Interface\bin\Debug\net5.0\BuildingMS.Entity.dll
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Interface\bin\Debug\net5.0\BuildingMS.Entity.pdb
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Interface\obj\Debug\net5.0\BuildingMS.Interface.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Entity\bin\Debug\net5.0\BuildingMS.Entity.deps.json
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Entity\bin\Debug\net5.0\BuildingMS.Entity.dll
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Entity\bin\Debug\net5.0\BuildingMS.Entity.pdb
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Entity\obj\Debug\net5.0\BuildingMS.Entity.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Entity\obj\Debug\net5.0\BuildingMS.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Entity\obj\Debug\net5.0\BuildingMS.Entity.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Entity\obj\Debug\net5.0\BuildingMS.Entity.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Entity\obj\Debug\net5.0\BuildingMS.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Entity\obj\Debug\net5.0\BuildingMS.Entity.dll
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Entity\obj\Debug\net5.0\refint\BuildingMS.Entity.dll
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Entity\obj\Debug\net5.0\BuildingMS.Entity.pdb
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Entity\obj\Debug\net5.0\ref\BuildingMS.Entity.dll
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Entity\bin\Debug\net5.0\BuildingMS.Entity.runtimeconfig.json
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Entity\bin\Debug\net5.0\BuildingMS.Entity.runtimeconfig.dev.json
+C:\Users\ahmet\source\repos\BuildingMS\BuildingMS.Entity\obj\Debug\net5.0\BuildingMS.Entity.genruntimeconfig.cache
