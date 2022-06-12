@@ -577,6 +577,7 @@
 ```
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![bmsDiagram](https://user-images.githubusercontent.com/71569624/173257957-e5a1428d-61e0-41fb-8599-7aab6e21733e.PNG)
+![BuildingMsEkran](https://user-images.githubusercontent.com/71569624/173257958-1cc772b5-8cee-4951-b2ee-8775f8e4010a.PNG)
 
   
